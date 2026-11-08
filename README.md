@@ -16,7 +16,7 @@
 
 ## 📖 Overview
 
-**Librar** is a streamlined desktop application engineered to simplify library operations. Built with C# and Windows Forms, it provides an intuitive interface powered by Guna.UI2 for tracking cataloged books, managing member profiles, and executing issue/return transactions smoothly.
+**Library** is a streamlined desktop application engineered to simplify library operations. Built with C# and Windows Forms, it provides an intuitive interface powered by Guna.UI2 for tracking cataloged books, managing member profiles, and executing issue/return transactions smoothly.
 
 ---
 
@@ -45,7 +45,7 @@
 ## 📂 Project Architecture
 
 ```
-librar/
+library/
 ├── Assets/           # UI icons, images, and brand assets
 ├── Forms/            # Application windows & custom UI dialogs
 ├── Models/           # Core entities (Book, Member, BorrowRecord)
@@ -70,7 +70,7 @@ Ensure you have the following installed before starting:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/DevHatemAlDouh/librar.git
-   cd librar
+   cd library
    ```
 
 2. **Open the Project:**
