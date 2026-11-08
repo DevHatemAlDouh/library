@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📚 Librar
+# 📚 Library
 
 **A modern, efficient Desktop Library Management System**
 
